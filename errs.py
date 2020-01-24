@@ -1,0 +1,2 @@
+class invalidateYAML(Exception):
+    pass
